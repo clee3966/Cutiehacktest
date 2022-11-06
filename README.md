@@ -4,4 +4,4 @@ Coin counter uses computer vision to identify coins regardless of size, and coun
 # Description 
 This project was our first experience in machine learning. Machine learing is a career path we are facinated in. We used computer vision to determine wether an object was a coin or not. By using different methods like grayscale, blurring, edge detection, and dialtion the computer is able to detect coins. We made a website where the user could input their own image of coins to test the computers ability to detect coins. 
 
-![image](https://user-images.githubusercontent.com/117532660/200150798-c959f9c3-bf6f-420a-b8e0-b3cc44e16902.png)
+![cointest](https://user-images.githubusercontent.com/117532660/200150815-968647b8-1a90-408b-bb3e-0a87765a26f3.png)
